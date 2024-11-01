@@ -1,1 +1,1 @@
-# chan-vese-segmentation
+# Image Segmentation using Variational Method - Chan-vese
